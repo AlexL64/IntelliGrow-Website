@@ -1,2 +1,2 @@
 # IntelliPot-Website
-Website for the connected flower pot IntelliPot by IntelliGrow.
+Website for the IntelliGrow products.
